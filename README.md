@@ -1,5 +1,9 @@
-fw-port conflict prevention, proof-of-concept
----------------------------------------------
+fw-port conflict prevention
+---------------------------
+
+This software is only a **proof-of-concept**, it's not written with any security in mind. \
+Please read it, study it, but run it only with a grain of salt.
+
 
 - Locate your odoo folder
 - `cd` to the parent folder
